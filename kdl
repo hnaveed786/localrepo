@@ -1,0 +1,22 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex da34ed2..fd8f6ed 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1,2 @@[m
+[31m-# This is my local Repo[m
+\ No newline at end of file[m
+[32m+[m[32m# This is my local Repo[m
+[32m+[m[32m# This is new feature[m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 604c28d..6eb0e35 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -11,5 +11,6 @@[m
+ </head>[m
+ <body>[m
+     <p>This is new repo...</p>[m
+[32m+[m[32m    <p>This is new feature</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
